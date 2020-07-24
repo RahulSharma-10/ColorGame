@@ -20,5 +20,5 @@ A Color Game, made using a combination of JavaScript, HTML and CSS.
 ![NewColorsOption](https://user-images.githubusercontent.com/66758271/88360905-ef305f00-cd94-11ea-945a-4ce8dfb4b5b0.PNG)
 
 
-=> **Try Again if you get it wrong**
+=> **Try Again Feature!** 
 ![TryAgainFeature](https://user-images.githubusercontent.com/66758271/88360907-f0618c00-cd94-11ea-8727-0330463def96.PNG)
