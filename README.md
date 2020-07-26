@@ -1,5 +1,5 @@
 # ColorGame
-A Color Game, made using a combination of JavaScript, HTML and CSS.
+A Color Game, made using a combination of Vanilla JavaScript, HTML and CSS.
 
 # Preview
 ==> **Landing Page**:
